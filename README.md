@@ -12,13 +12,13 @@ Estudiante de **ASIX** que aprende desarrollo construyendo proyectos reales con 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox%20Luau-00A2FF?style=flat&logo=roblox&logoColor=white)
+
 
 ## 🚀 Qué hago
 
 - Apps web y PWA (React, Svelte, Firebase)
 - Apps móviles con Expo
-- Experimentos con IA y herramientas para Roblox Studio
+- Experimentos con IA
 
 ## 📫 Contacto
 
